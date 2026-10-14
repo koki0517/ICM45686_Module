@@ -633,5 +633,7 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "ICM45686_MODULE_DIR": "${KIPRJMOD}/library"
+  }
 }
